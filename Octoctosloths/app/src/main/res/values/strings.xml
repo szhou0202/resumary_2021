@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Resumary</string>
+    <string name="titleStr">My Resume Builder</string>
+    <string name="pencil">pencil</string>
+    <string name="copyright">Created by Octosloth Enterprises</string>
+    <string name="entriesTitle">All Of My Entries:</string>
+    <string name="newEntryTitleInitial">New Entry</string>
+    <string name="start_date">Start Date:</string>
+    <string name="priority">Priority:</string>
+    <string name="description">Description</string>
+    <string name="hours">Hours</string>
+    <string name="title">Title</string>
+    <string name="end_date">End Date:</string>
+    <string name="new_start_date">New Start Date</string>
+    <string name="new_end_date">New End Date</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="date_received">Date Received</string>
+    <string name="new_date_received">New Date</string>
+    <string name="gpa">GPA</string>
+</resources>
